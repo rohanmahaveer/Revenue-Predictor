@@ -15,5 +15,6 @@ protobuf==6.31.1
 pyOpenSSL==25.1.0
 redis==6.2.0
 Sphinx==8.2.3
+scikit-learn==1.7.1
 thread==2.0.5
 urllib3_secure_extra==0.1.0
